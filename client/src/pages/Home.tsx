@@ -5,7 +5,7 @@ import { ArrowRight, Code2, Database, Container, Github, Linkedin, Mail } from "
 
 export default function Home() {
   // Substitua com seu GitHub username
-  const GITHUB_USERNAME = "seu-username";
+  const GITHUB_USERNAME = "Guilhermeabtibol";
 
   const skills = [
     {
@@ -91,7 +91,7 @@ export default function Home() {
             <div className="grid grid-cols-2 gap-4">
               <Card className="bg-background">
                 <CardHeader>
-                  <CardTitle className="text-3xl text-blue-500">5+</CardTitle>
+                  <CardTitle className="text-3xl text-blue-500">2+</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-foreground/70">Anos de Experiência</p>
@@ -197,7 +197,7 @@ export default function Home() {
               </Button>
 
               <Button size="lg" variant="outline" asChild>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+                <a href="https://github.com/Guilhermeabtibol" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
                   <Github className="h-5 w-5" />
                   GitHub
                 </a>

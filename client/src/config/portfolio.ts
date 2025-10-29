@@ -5,14 +5,14 @@
 
 export const portfolioConfig = {
   // Informações Pessoais
-  name: "Seu Nome",
+  name: "GuilhermE Abtibol",
   title: "Desenvolvedor Full Stack",
   description: "Especialista em Java, Spring Boot, Docker e React. Criando soluções escaláveis e de alta qualidade.",
   
   // GitHub
   github: {
-    username: "seu-username", // Substitua com seu GitHub username
-    url: "https://github.com/seu-username",
+    username: "Guilhermeabtibol", // Substitua com seu GitHub username
+    url: "https://github.com/Guilhermeabtibol?tab=repositories",
   },
   
   // LinkedIn
@@ -25,7 +25,7 @@ export const portfolioConfig = {
   
   // Estatísticas
   stats: {
-    yearsOfExperience: 5,
+    yearsOfExperience: 2,
     projectsCompleted: 20,
     clientSatisfaction: 100,
     technologiesMastered: 10,

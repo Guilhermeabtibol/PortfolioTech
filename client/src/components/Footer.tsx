@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           {/* About Section */}
           <div>
-            <h3 className="text-lg font-semibold mb-4">Desenvolvedor</h3>
+            <h3 className="text-lg font-semibold mb-4">Guilherme Abtibol</h3>
             <p className="text-foreground/70 text-sm">
               Especialista em Java, Spring Boot, Docker e React. Apaixonado por criar soluções escaláveis e de alta qualidade.
             </p>
@@ -47,7 +47,7 @@ export default function Footer() {
             <h3 className="text-lg font-semibold mb-4">Redes Sociais</h3>
             <div className="flex gap-4">
               <a
-                href="https://github.com"
+                href="https://github.com/Guilhermeabtibol"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-foreground/70 hover:text-foreground transition-colors"
